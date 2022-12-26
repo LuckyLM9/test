@@ -1,0 +1,184 @@
+body{
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    display: block;
+    margin-top: 20px;
+    margin-left: 0px;
+    height: 1400px;
+}
+header{
+    display: block;
+    border-left: -2000px;
+    border-width: 2000px;
+    height: 50px;
+    width: 1500px;
+    box-shadow: 0px 10px 5px rgb(227, 227, 227);
+}
+.areatotale{
+    margin-left: 50px;
+}
+a{
+padding-right: 20px;    
+}
+nav{
+    display: flex;
+    padding-left: 850px;
+    margin-right: 25px;
+    padding-right: 10px;
+    margin-top: -30px;
+    height: 0px;
+}
+.areatotale h5{
+    display: inline-flex;
+    margin-left: 5px;
+    margin-top: -6px;
+    padding-left: 15px;
+    border-radius: 15px;
+    border-width: 30px;
+    margin-bottom: 20px;
+    border: solid;
+    border-left: 10px;
+    border-right: 30px;
+    text-align: center;
+    width: 150px;
+    height: 20px;
+   
+}
+.areatotale h5:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
+#User{
+    display: inline-flex;
+    margin-top: -4px;
+    border-radius: 15px;
+    border-width: 30px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    border: rgb(174, 48, 22);
+    text-align: center;
+    width: 25px;
+    height: 20px;
+     
+}
+#User:hover{
+    background-color: rgb(234, 84, 46);
+    border-radius: 50px,50px,50px;
+    padding-left: 5px;
+    border-left: 30px;
+    border-right: 30px;
+}
+.menu ul li{
+    margin-top: 60px;
+    margin-left: 60px;
+    list-style: none;
+    display: inline-flex;
+    padding-left: 10px;
+    margin-right: -70px;
+    padding-right: 5px;
+    margin-bottom: 6px;
+}
+.menu li:hover{
+    border-bottom: 5px;
+    border-color: black;
+    cursor: pointer;
+    border: solid;
+    height: 30px;
+    text-decoration: solid;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+.menu li{
+    height: 30px;
+    border-bottom-style: solid;
+    border-color: rgba(129, 127, 127, 0.596);
+    border-top: 0px;
+    padding-left: 40px;
+    border-bottom-right-radius: 20px;
+    
+    
+}
+#siderow-menu{
+ display: inline-flex;
+ margin-left: 980px;
+ width: 25px;
+ height: 25px;
+ padding-right: 40px;
+ padding-top: -20px;
+
+}
+#siderow-menu h2{
+margin-top: -6px;
+margin-right: 2px;
+color: rgb(172, 170, 170);
+}
+#siderow-menu h2 img{
+    margin-top: -5px;
+    margin-right: -100px;
+    color: rgb(172, 170, 170);
+    }
+
+#discover{
+    display: flex;
+    justify-content: right;
+   color: rgba(96, 95, 95, 0.946);
+   text-align: center;
+    margin-top: -15px;
+    width: 190px;
+   margin-left: 920px;
+}
+.content{
+    justify-content: right;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    margin-left: 910px;
+    border-width: 150px;
+    border-left: 50px;
+    border-right: 50px;
+    border: solid;
+    border-color: darkgrey;
+    border-radius: 35px;
+    width: 200px;
+    height: 20px;
+}
+.content:hover{
+    background-color: rgb(251, 244, 187);
+}
+p.main{
+    list-style: none;
+    display: inline-flex;
+    margin-left: -750px;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+#title-article1 h3{
+margin-top: 40px;
+margin-left: 100px;
+width: 480px;
+height: 30px;
+}
+p.main+h4 h6{
+    margin-top:50px;
+    padding: 15px;
+}
+#title-article1 h5{
+   height: 50px;
+   width: 480px;
+    margin-left: 100px;
+    margin-top: -20px;
+    text-align: justify;
+    text-transform: none;
+    color: rgb(125, 123, 123);
+}
+ul li{
+    list-style: none;
+margin-left: 60px;
+padding-top: -20px;
+text-align: justify;
+height: 20px;
+display: inline-flex;
+}
